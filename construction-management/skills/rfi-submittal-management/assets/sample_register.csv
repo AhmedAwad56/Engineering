@@ -1,0 +1,10 @@
+id,type,discipline,title,date_submitted,date_required,date_responded,status,revision,code,critical
+TWR-RFI-STR-0031,RFI,STR,Beam B12 level clash with duct L3,2026-08-25,2026-09-01,,Open,0,,Y
+TWR-RFI-ARC-0044,RFI,ARC,Façade bracket spacing at corner,2026-09-10,2026-09-20,2026-09-18,Closed,0,,N
+TWR-RFI-MEP-0052,RFI,MEP,Chiller plinth dimensions,2026-09-15,2026-09-22,,Open,0,,N
+TWR-MS-MEP-0012,MS,MEP,Chillers - material submittal,2026-07-20,2026-08-03,2026-08-20,Closed,1,B,Y
+TWR-MS-ARC-0020,MS,ARC,Porcelain tiles,2026-08-01,2026-08-15,2026-08-12,Closed,0,A,N
+TWR-SD-STR-0007,SD,STR,Rebar shop drawings raft,2026-06-10,2026-06-24,2026-06-30,Closed,0,C,Y
+TWR-SD-STR-0007-R1,SD,STR,Rebar shop drawings raft,2026-07-02,2026-07-16,2026-07-14,Closed,1,A,Y
+TWR-MS-MEP-0015,MS,MEP,LV switchgear,2026-08-28,2026-09-11,,Open,0,,Y
+TWR-MET-CIV-0003,MET,CIV,Dewatering method statement,2026-09-05,,,Open,0,,N

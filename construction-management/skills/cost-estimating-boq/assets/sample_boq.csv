@@ -1,0 +1,20 @@
+section,item,description,unit,qty,rate,labour,material,plant,subcon
+Substructure,S1,Bulk excavation to reduced level,m3,4200,,1.5,,4.0,
+Substructure,S2,Blinding concrete C15 75mm,m2,1350,,2.0,6.5,0.5,
+Substructure,S3,Raft foundation concrete C40,m3,1080,,18,95,6,
+Substructure,S4,Reinforcement to raft,t,130,,160,720,15,
+Substructure,S5,Waterproofing membrane to raft,m2,1350,,,,,22
+Frame,F1,Columns & walls concrete C40,m3,620,,35,95,8,
+Frame,F2,Slabs & beams concrete C35,m3,1900,,25,90,8,
+Frame,F3,Reinforcement to frame,t,420,,170,720,15,
+Frame,F4,Formwork to slabs,m2,9800,,14,6,1,
+External walls,E1,200mm blockwork,m2,6200,,8,11,0.5,
+External walls,E2,Curtain wall system,m2,2400,,,,,390
+Finishes,N1,Internal plaster,m2,21000,,4,2.5,,
+Finishes,N2,Porcelain floor tiling,m2,7800,,9,28,,
+Finishes,N3,Emulsion paint 2 coats,m2,21000,,2,1.5,,
+MEP,M1,Mechanical installation (lump sum),item,1,2850000,,,,
+MEP,M2,Electrical installation (lump sum),item,1,1950000,,,,
+MEP,M3,Lifts 13-person 8 stops,nr,3,95000,,,,
+External works,X1,Asphalt paving,m2,2600,,,,,34
+External works,X2,Soft landscaping,m2,,18,,,,

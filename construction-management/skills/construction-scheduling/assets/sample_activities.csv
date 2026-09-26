@@ -1,0 +1,16 @@
+id,name,duration,predecessors
+M0,Commencement,0,
+A10,Mobilisation & site setup,10,M0
+A20,Excavation & shoring,15,A10
+A30,Blinding & waterproofing,5,A20
+A40,Raft foundation,12,A30
+A50,Basement walls & slab,15,A40
+A60,Superstructure frame L1-L4,40,A50
+P10,Lift submittal & approval,20,M0
+P20,Lift manufacture & delivery,60,P10
+A70,Blockwork & envelope,30,A60:SS+20
+A80,MEP first fix,25,A60:SS+25
+A90,Lift installation,20,P20;A60
+A100,Finishes,35,A70;A80
+A110,Testing & commissioning,10,A90;A100
+M99,Completion,0,A110

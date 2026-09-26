@@ -1,0 +1,7 @@
+id,contract,event_type,trigger_date,done_date,description
+EV-01,FIDIC2017,claim_event,2026-08-20,2026-09-10,Late issue of revised structural drawings Level 3
+EV-02,FIDIC2017,claim_event,2026-09-05,,Unforeseeable rock at grid C-D during excavation
+EV-03,FIDIC2017,statement_submitted,2026-08-01,,IPC 11 statement
+EV-04,FIDIC2017,variation_instruction,2026-09-15,,EI-042 add canopy to main entrance
+EV-05,FIDIC2017,engineer_determination,2026-09-01,,Determination on Claim 007 (dewatering)
+EV-06,NEC4,compensation_event,2026-07-01,,Client-supplied transformer delivered late

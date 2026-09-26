@@ -1,0 +1,9 @@
+{
+  "name": "construction-management",
+  "description": "Construction management skills: CPM scheduling, cost estimating/BOQ, earned value, variations & claims, FIDIC/NEC contract administration, RFI & submittal control, site HSE & quality.",
+  "version": "1.0.0",
+  "author": {
+    "name": "AhmedAwad56"
+  },
+  "license": "MIT"
+}
